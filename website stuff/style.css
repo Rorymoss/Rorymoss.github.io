@@ -1,0 +1,53 @@
+body	{
+	background-image: url("rain.jpg");
+	} 
+	
+h1	{
+	color: #ff6699;
+	font-family: "satisfy";
+	font-size: 45px;
+	}
+
+h5	{
+	color: midnightblue;
+	font-family: "Perpetua";
+	font-size: 24px;
+	}
+	
+a	{
+	color: darkturquoise;
+	}
+	
+li.orange	{
+	color: orange;
+	font-family: "Copperplate";
+	}
+	
+li.darkorange	{
+	color: darkorange;
+	font-family: "Papyrus";
+	}
+	
+li.coral	{
+	color: coral;
+	font-family: "Copperplate";
+	}
+	
+li.tomato	{
+	color: tomato;
+	font-family: "Papyrus";
+	}
+	
+li.orangered	{
+	color: orangered;
+	font-family: "Copperplate";
+	}
+	
+h2	{
+	color: deepskyblue;
+	font-family: "couriernew";
+	}
+	
+div		{
+	background-color: chartreuse;
+	}
